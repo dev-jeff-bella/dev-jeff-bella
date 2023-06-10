@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](/img/rick_and_morty_s4_image.jpg)
 
 <!--
 **dev-jeff-bella/dev-jeff-bella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
